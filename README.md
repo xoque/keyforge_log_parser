@@ -32,7 +32,7 @@ limitations to what is possible with parsing.
 - Sometimes, the start character of a log gives the parser a UTF-8 error.
   If this happens, delete the first character of the first line of the log,
   add a blank line as the first line, and then add the first character back
-  into the second line.
+  into the second line.  Then save with UTF-8 encoding.
 
 # TODO
 - Add Card Draw counts
