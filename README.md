@@ -33,9 +33,9 @@ limitations to what is possible with parsing.
   into the second line.
 
 # TODO
-Add Card Draw counts
-Add "Not Listed" to Winner if log does not have a winner (for example when
+- Add Card Draw counts
+- Add "Not Listed" to Winner if log does not have a winner (for example when
   player leaves before conceding)
-Add logging of Bonus Aember gained
-Add logging of aember gained through card effects
-Add more identified limitations
+- Add logging of Bonus Aember gained
+- Add logging of aember gained through card effects
+- Add more identified limitations
