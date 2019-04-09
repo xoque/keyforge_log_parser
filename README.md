@@ -1,7 +1,7 @@
 # keyforge_log_parser
 Keyforge log parser for text logs from The Crucible Online
 
-Usage: python keyforge_log_parser.py <<path to log file>>
+Usage: python keyforge_log_parser.py `<path to log file>`
 
 User libraries: sys, re, PrettyTable
 
